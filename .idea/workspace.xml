@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39568e23-f09d-4a75-8819-1e19c03e504a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsXj0qzTFZQdSSMskc3zTUhWGA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/ca1ngay 2-4" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JdbcExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.JdbcExample" />
+      <module name="CustomerManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JdbcExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39568e23-f09d-4a75-8819-1e19c03e504a" name="Default Changelist" comment="" />
+      <created>1585628906854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585628906854</updated>
+      <workItem from="1585628908479" duration="4224000" />
+      <workItem from="1585677688848" duration="633000" />
+      <workItem from="1585740442808" duration="6394000" />
+      <workItem from="1585782702720" duration="9371000" />
+      <workItem from="1585908857467" duration="8146000" />
+      <workItem from="1585934675656" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1585922375436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585922375436" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585934831775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585934831775" />
+    <state width="1493" height="443" key="GridCell.Tab.0.bottom" timestamp="1585924524551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585924524551" />
+    <state width="1493" height="443" key="GridCell.Tab.0.center" timestamp="1585924524551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585924524551" />
+    <state width="1493" height="443" key="GridCell.Tab.0.left" timestamp="1585924524551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585924524551" />
+    <state width="1493" height="443" key="GridCell.Tab.0.right" timestamp="1585924524551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585924524551" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1585750735647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585750735647" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585934675348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585934675348" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1585629199541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585629199541" />
+  </component>
+</project>
